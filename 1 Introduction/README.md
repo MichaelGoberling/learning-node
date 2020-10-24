@@ -28,6 +28,22 @@ A great benefit of using Node.js is that when you are writing a frontend using J
 
 ### Course Outline
 
+This course is heavily focused on using Node.js to develop web servers. I am going to attempt to remember everything this course will cover:
+
+- Simple static website hosting
+- User authentication
+- Validating user input
+- Handling errors
+- MVC
+- Interfacing with MySQL
+- Interfacing with MongoDB
+- Hosting a REST API with Express.js
+- Using async/await
+- Using GraphQL
+- Using Stripe.js to handle payments
+- Using TypeScript
+- Trying out Deno
+
 ### How to Get The Most Out of The Course
 
 ### Working with REPL vs. Using Files
