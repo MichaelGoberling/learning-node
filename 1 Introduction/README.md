@@ -18,6 +18,14 @@ There is a library called `fs` which enables interaction with the host operating
 
 ### Understanding the Role and Usage of Node.js
 
+Node.js runs as a server side runtime for things like handling authentication, saving user data, and more. Ultimately, Node.js is used for event IO like HTTP requests and responses and it can be used to host RESTful API's.
+
+It is also a perfect candidate for writing build tools with as it has access to the host filesystem.
+
+Some alternatives to Node.js are Python (Django, Flask), PHP with Laravel (?) and Ruby on Rails or ASP.NET.
+
+A great benefit of using Node.js is that when you are writing a frontend using JavaScript, you can use the same language in the backend to implement your business logic, authentication, or whatever. This also means that if you have some sort of shared components between the frontend and backend, you can avoid repeating yourself and stay DRY.
+
 ### Course Outline
 
 ### How to Get The Most Out of The Course
