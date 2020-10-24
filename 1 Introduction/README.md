@@ -46,6 +46,13 @@ This course is heavily focused on using Node.js to develop web servers. I am goi
 
 ### How to Get The Most Out of The Course
 
+- Watch the videos
+- Code along with the course at your own pace
+- Ask questions in the Q&A
+- Answer questions in the Q&A
+
+My personal approach will be to watch videos all the way through and then attempt to perform the coding exercise as opposed to attempting to choppily implement alongside the presenter.
+
 ### Working with REPL vs. Using Files
 
 ### Using the Attached Source Code
