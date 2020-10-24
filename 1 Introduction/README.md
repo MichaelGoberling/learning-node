@@ -55,6 +55,19 @@ My personal approach will be to watch videos all the way through and then attemp
 
 ### Working with REPL vs. Using Files
 
+REPL stands for:
+
+- Read user input
+- Evaluate user Input
+- Print output to the screen
+- Loop back to the beginning
+
+Using the REPL can be useful if you want to try out some functionality fairly quickly. It is a good playground, and nothing more.
+
+This may be useful if you'd like to try out a single function of a new API you are requiring and just want to see if it will work without creating a new file or folder.
+
+Alternatively, you can create a .js file and run it with Node. This is what all meaningful projects do and how this course will mainly be run.
+
 ### Using the Attached Source Code
 
 ## Conclusion
