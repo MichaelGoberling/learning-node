@@ -70,4 +70,12 @@ Alternatively, you can create a .js file and run it with Node. This is what all 
 
 ### Using the Attached Source Code
 
+`no video`
+
 ## Conclusion
+
+Node.js is a server side runtime that allows you to implement business logic, handle authz/authn, and server data up via RESTful or GraphQL APIs.
+
+Node.js is not limited to this, however. Since it has access to the filesystem, it is a useful tool for developing build tools with, and a lot of famous JavaScript frameworks leverage Node.js for this purpose.
+
+At this point, there is not a lot I am curious about. Most of this material was fairly standard, and I am more excited to dig into the weeds in the future on interfacing with MySQL, interfacing with NoSQL, and standing up a REST API, among the other more advanced topics.
